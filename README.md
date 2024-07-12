@@ -1,6 +1,6 @@
-# spotbro
+# SpotBro
 
-A new Flutter project.
+An app for matching gym bros 💪
 
 ## Getting Started
 
