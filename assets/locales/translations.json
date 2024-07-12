@@ -1,0 +1,22 @@
+{
+    "home": [
+        "Home",
+        "Startseite",
+        "Ana Sayfa"
+    ],
+    "search": [
+        "Search",
+        "Suche",
+        "Arama"
+    ],
+    "profile": [
+        "Profile",
+        "Profil",
+        "Profil"
+    ],
+    "settings": [
+        "Settings",
+        "Einstellungen",
+        "Ayarlar"
+    ]
+}
